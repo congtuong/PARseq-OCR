@@ -25,6 +25,7 @@ python demo/demo.py --config-file <path to config> --input <path to input image>
 ```
 ### Links
 https://github.com/ymy-k/DPText-DETR
+
 https://github.com/baudm/parseq
 
 
